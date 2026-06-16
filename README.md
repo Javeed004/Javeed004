@@ -27,7 +27,7 @@ Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, an
 * Portfolio: [Portfolio Website](https://javeed004.github.io/protfo/)
 * Email: [javeedrahman1404@gmail.com](mailto:javeedrahman1404@gmail.com)
 
-* ⚡ Fun fact: I started my journey in Mechanical Engineering before transitioning into AI & Data Science, combining engineering thinking with modern AI solutions.
+⚡ Fun fact: I started my journey in Mechanical Engineering before transitioning into AI & Data Science, combining engineering thinking with modern AI solutions.
 
 ## 🎯 Current Focus
 
