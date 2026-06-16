@@ -31,8 +31,6 @@ Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, an
 
 * ⚡ Fun fact: I started my journey in Mechanical Engineering before transitioning into AI & Data Science, combining engineering thinking with modern AI solutions.
 
----
-
 ## 🎯 Current Focus
 
 * Building reliable AI systems
