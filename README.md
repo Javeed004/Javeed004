@@ -8,12 +8,6 @@ AI & Data Science Engineer | Machine Learning Enthusiast | Full-Stack Developer
 Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, and Cloud Technologies.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Javeed004">
-    <img src="https://komarev.com/ghpvc/?username=Javeed004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 * 🔭 I’m currently working on AI-powered applications, LLM evaluation frameworks, and cloud-native solutions using Azure.
@@ -36,44 +30,6 @@ Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, an
 * 😄 Pronouns: He/Him
 
 * ⚡ Fun fact: I started my journey in Mechanical Engineering before transitioning into AI & Data Science, combining engineering thinking with modern AI solutions.
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Multi-Model Web Authentication System
-
-* AI-powered age verification using Computer Vision and Machine Learning
-* React frontend with FastAPI backend
-* Real-time facial analysis and secure content access workflow
-
-### 🌾 Crop Recommendation Platform
-
-* Predicts optimal crops using soil composition and climatic data
-* Machine Learning-powered recommendation engine
-* End-to-end predictive analytics platform
-
-### 🩻 Bone Fracture Detection System
-
-* Deep Learning-based fracture classification from X-ray images
-* Achieved 96% model accuracy
-* Automated medical image analysis pipeline
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `SQL` `JavaScript`
-
-**AI & Data Science**
-`Machine Learning` `LLM` `RAG` `Deep Learning` `TensorFlow` `Data Analysis` `Statistics`
-
-**Web Development**
-`React` `Node.js` `Express.js` `FastAPI` `HTML` `CSS` `JavaScript`
-
-**Cloud & Tools**
-`Microsoft Azure` `Git` `GitHub` `Power BI` `Excel`
 
 ---
 
