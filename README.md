@@ -20,12 +20,12 @@ Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, an
 
 * 💬 Ask me about **Machine Learning, Deep Learning, Python, MERN Stack, FastAPI, Azure, LLM Evaluation, and Data Science**.
 
-* 📫 How to reach me:
+## 📫 How to reach me
 
-  * LinkedIn: [https://www.linkedin.com/in/javeed-rahman/]
-  * Medium: [https://medium.com/@javeedahamed1404]
-  * Portfolio: [https://javeed004.github.io/protfo/]
-  * Email: [mailto:javeedrahman1404@gmail.com]
+* LinkedIn: [Javeed Rahman](https://www.linkedin.com/in/javeed-rahman/)
+* Medium: [@javeedahamed1404](https://medium.com/@javeedahamed1404)
+* Portfolio: [Portfolio Website](https://javeed004.github.io/protfo/)
+* Email: [javeedrahman1404@gmail.com](mailto:javeedrahman1404@gmail.com)
 
 * 😄 Pronouns: He/Him
 
