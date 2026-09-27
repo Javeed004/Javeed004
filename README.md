@@ -24,7 +24,7 @@ Building intelligent systems with AI, Machine Learning, LLMs, LLM Evaluation, an
 
 * [LinkedIn](https://www.linkedin.com/in/javeed-rahman/)
 * [Medium](https://medium.com/@javeedahamed1404)
-* [Portfolio](https://javeed004.github.io/protfo/)
+* [Portfolio](https://javeed-zulfikar.vercel.app/)
 * [Email](mailto:javeedrahman1404@gmail.com)
 
 ⚡ Fun fact: I started my journey in Mechanical Engineering before transitioning into AI & Data Science, combining engineering thinking with modern AI solutions.
